@@ -1,0 +1,1 @@
+const random = 'assets/images/random.jpg';
